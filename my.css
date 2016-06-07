@@ -1,0 +1,36 @@
+/* CSS */
+
+
+body {
+	/*	設定字形，當電腦為Mac時套用 LiHei Pro，當電腦為Windows時套用微軟正黑體 */
+	font-family: "LiHei Pro", "Microsoft JhengHei";
+}
+
+/* 左邊欄位使用 */
+.col-left {
+	/*	上邊界增加 50px 空白 */
+	padding-top: 50px;
+	/*	下邊界增加 50px 空白 */
+	padding-bottom: 50px;
+	/*	設定背景色 */
+	background-color: lightblue;
+}
+
+/* 右邊欄位使用 */
+.col-right {
+	/*	上邊界增加 50px 空白 */
+	padding-top: 50px;
+	/*	下邊界增加 50px 空白 */
+	padding-bottom: 50px;
+	/*	設定背景色 */
+	background-color: lightgray;
+}
+
+/* 照片 */
+.image-item {
+	/*	影像寬度為 350px */
+	width: 350px;
+	height: auto;
+}
+
+
